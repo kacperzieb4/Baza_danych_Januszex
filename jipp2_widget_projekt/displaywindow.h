@@ -12,7 +12,6 @@
 class DisplayWindow : public QWidget
 {
     Q_OBJECT
-
 public:
     explicit DisplayWindow(const std::vector<Person>& people, QWidget* parent = nullptr);
 
@@ -24,7 +23,6 @@ private:
     QScrollArea* scrollArea;
     QWidget* scrollWidget;
     QVBoxLayout* scrollLayout;
-    QPushButton* backButton; 
+    QPushButton* backButton;
 };
-
 #endif // DISPLAYWINDOW_H

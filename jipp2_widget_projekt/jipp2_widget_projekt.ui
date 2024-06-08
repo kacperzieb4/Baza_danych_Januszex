@@ -18,42 +18,42 @@
 				<item>
 					<widget class="QPushButton" name="addPersonButton">
 						<property name="text">
-							<string>Add Person</string>
+							<string>Dodaj osobę</string>
 						</property>
 					</widget>
 				</item>
 				<item>
 					<widget class="QPushButton" name="deletePersonButton">
 						<property name="text">
-							<string>Delete Person</string>
+							<string>Usuń osobę</string>
 						</property>
 					</widget>
 				</item>
 				<item>
 					<widget class="QPushButton" name="displayPeopleButton">
 						<property name="text">
-							<string>Display People</string>
+							<string>Wyświetl ludzi</string>
 						</property>
 					</widget>
 				</item>
 				<item>
 					<widget class="QPushButton" name="sortByLastNameButton">
 						<property name="text">
-							<string>Sort by Last Name</string>
+							<string>Sortuj po nazwisku</string>
 						</property>
 					</widget>
 				</item>
 				<item>
 					<widget class="QPushButton" name="sortByAgeButton">
 						<property name="text">
-							<string>Sort by Age</string>
+							<string>Sortuj po wieku</string>
 						</property>
 					</widget>
 				</item>
 				<item>
 					<widget class="QPushButton" name="saveAndExitButton">
 						<property name="text">
-							<string>Save and Exit</string>
+							<string>Zapisz i zamknij</string>
 						</property>
 					</widget>
 				</item>
